@@ -69,7 +69,7 @@ VBA (User-Defined Function)
 🚀 Outcome
 By leveraging Excel's analytical tools, I created a dynamic and interactive dashboard that provides insights into sales performance, customer behavior, and product profitability. This showcases my ability to work with large datasets, apply analytical thinking, and present data visually and interactively.
 
-<img width="2350" height="1330" alt="image" src="https://github.com/user-attachments/assets/d3182312-6631-4586-baff-c639794ee4a2" />
+
 
 <img width="1190" height="478" alt="image" src="https://github.com/user-attachments/assets/e7744afa-19a6-40fe-a2b0-18d23eda9bc0" />
 
